@@ -4,21 +4,15 @@
 "common_button_cancel" = "Abbrechen";
 "common_button_retry" = "Neu Laden";
 "common_open_settings" = "Einstellungen öffnen";
-
 "app_name" = "Application Template";
 
-/*
- =========================================
+/*=========================================
  ERROR
- =========================================
- */
+ =========================================*/
 "error_no_network_title" = "TODO Keine Internetverbindung?";
-"error_no_network_message" = "TODO Beim Laden der Daten ist ein Fehler aufgetreten, bitte überprüfen Sie Ihre Internetverbindung.";
+"error_no_network_message" = "Beim Laden der Daten ist ein Fehler aufgetreten, bitte überprüfen Sie Ihre Internetverbindung.";
 
-/*
- =========================================
+/*=========================================
  LICENSES
- =========================================
- */
+ =========================================*/
 "licenses_title" = "Lizenzen";
-
