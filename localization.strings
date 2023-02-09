@@ -3,13 +3,12 @@
 "common_button_ok" = "OK";
 "common_button_cancel" = "Abbrechen";
 "common_button_retry" = "Neu Laden";
-"common_open_settings" = "Einstellungen öffnen";
+"common_open_settings" = "Einstellungen schließen";
 "app_name" = "Application Template";
 
 /*=========================================
  ERROR
  =========================================*/
-/*Fuzzy*/
 "error_no_network_title1" = "TODO Keine Internetverbindung?";
 "error_no_network_message" = "Beim Laden der Daten ist ein Fehler aufgetreten, bitte überprüfen Sie Ihre Internetverbindung.";
 
