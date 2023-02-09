@@ -5,7 +5,7 @@
 "common_button_retry" = "Neu Laden";
 "common_open_settings" = "Einstellungen öffnen";
 "app_name" = "Application Template";
-
+"test_string" = "mein String";
 /*=========================================
  ERROR
  =========================================*/
