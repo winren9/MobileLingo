@@ -5,14 +5,22 @@
 "common_button_retry" = "Neu Laden";
 "common_open_settings" = "Einstellungen öffnen";
 "app_name" = "Application Template";
-"test_string" = "mein String";
+
 /*=========================================
  ERROR
  =========================================*/
-"error_no_network_title" = "TODO Keine Internetverbindung?";
+/*Fuzzy*/
+"error_no_network_title1" = "TODO Keine Internetverbindung?";
 "error_no_network_message" = "Beim Laden der Daten ist ein Fehler aufgetreten, bitte überprüfen Sie Ihre Internetverbindung.";
 
 /*=========================================
  LICENSES
  =========================================*/
 "licenses_title" = "Lizenzen";
+"poterm" = "";
+"test_string" = "";
+
+/*=========================================
+ ERROR
+ =========================================*/
+"error_no_network_title" = "";
