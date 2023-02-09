@@ -6,20 +6,20 @@
 "common_open_settings" = "Einstellungen schließen";
 "app_name" = "Application Template";
 
-/*=========================================
+/* =========================================
  ERROR
- =========================================*/
+ ========================================= */
 "error_no_network_title1" = "TODO Keine Internetverbindung?";
 "error_no_network_message" = "Beim Laden der Daten ist ein Fehler aufgetreten, bitte überprüfen Sie Ihre Internetverbindung.";
 
-/*=========================================
+/* =========================================
  LICENSES
- =========================================*/
+ ========================================= */
 "licenses_title" = "Lizenzen";
-"poterm" = "";
-"test_string" = "";
+"poterm" = "term";
+"test_string" = "test_simon";
 
-/*=========================================
+/* =========================================
  ERROR
- =========================================*/
+ ========================================= */
 "error_no_network_title" = "";
